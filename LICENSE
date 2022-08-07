@@ -1,0 +1,6 @@
+GNU license
+git version 2.30.1 (Apple Git-130)
+ShellCheck - shell script analysis tool
+version: 0.8.0
+license: GNU General Public License, version 3
+website: https://www.shellcheck.net
